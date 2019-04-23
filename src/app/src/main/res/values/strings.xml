@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">俄罗斯方块</string>
+    <string name="remove_line_sum">消去的行数:</string>
+    <string name="fixed_cube_sum">下落方块数:</string>
+    <string name="score">分数:</string>
+    <string name="state_stop">游戏已停止</string>
+    <string name="state_run">游戏进行中</string>
+    <string name="state_pause">游戏已暂停</string>
+    <string name="menu_click_to_start">开始游戏</string>
+    <string name="menu_click_to_pause">暂停游戏</string>
+    <string name="menu_click_to_reset">重置游戏</string>
+    <string name="game_started">开始</string>
+    <string name="game_paused">暂停</string>
+    <string name="game_reseted">重置</string>
+    <string name="game_over">游戏结束</string>
+    <string name="press_again_to_exit">再按一次退出</string>
+    <string name="enable_preview">下落预览</string>
+    <string name="enable_hard_mode">困难模式</string>
+    <string name="about">关于本品</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_text">基于 GDI 绘图\n此布局适用于屏幕宽高比为 9:16 的设备</string>
+    <string name="cheat_enable">上帝模式已开启</string>
+    <string name="cheat_disable">上帝模式已关闭</string>
+    <string name="cheat_mode">上帝模式</string>
+</resources>
